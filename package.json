@@ -1,0 +1,22 @@
+{
+	"name": "doubleur-fr-fr",
+	"version": "1.0.0",
+	"description": "Doubleur french translation.",
+	"scripts": {
+		"i18n-json": "wp i18n make-json . --no-purge"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/imath/doubleur-fr-fr.git"
+	},
+	"keywords": [
+		"retraceur-language",
+		"french"
+	],
+	"author": "imath",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/imath/doubleur-fr-fr/issues"
+	},
+	"homepage": "https://github.com/imath/doubleur-fr-fr#readme"
+}

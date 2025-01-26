@@ -1,2 +1,3 @@
 # doubleur-fr-fr
-Traduction française pour le bloc Doubleur
+
+Traduction française du bloc [Doubleur](https://github.com/imath/doubleur).
