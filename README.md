@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- [Retraceur](https://retraceur.github.io/about/) >= 1.0.0-beta1
+- [Retraceur](https://retraceur.github.io/) >= 1.0.0-beta1
 - [Doubleur](https://github.com/imath/doubleur) >= 1.2.0
 
 ## Description
@@ -11,4 +11,4 @@ French translation for the [Doubleur](https://github.com/imath/doubleur) Retrace
 
 ## Installation
 
-Copy all files having their names starting by the `doubleur-fr_FR` term and paste theme into the `/wp-content/languages/plugins/` directory of your personal [Retraceur](https://retraceur.github.io/about/) Website. 
+Copy all files having their names starting by the `doubleur-fr_FR` term and paste theme into the `/wp-content/languages/plugins/` directory of your personal [Retraceur](https://retraceur.github.io/) Website. 
