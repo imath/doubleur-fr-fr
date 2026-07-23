@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- [Retraceur](https://retraceur.github.io/) >= 1.0.0-beta1
-- [Doubleur](https://github.com/imath/doubleur) >= 1.2.0
+- [Retraceur](https://retraceur.github.io/) >= 3.2.0
+- [Doubleur](https://github.com/imath/doubleur) >= 1.3.0
 
 ## Description
 
